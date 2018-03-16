@@ -14,6 +14,8 @@ This is the Purpose section
 
 ## How To Contribute
 
+Please fork this repository
+
 ### Copyright
 
 2018 Git.Training
