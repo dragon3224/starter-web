@@ -13,3 +13,7 @@ This is the Purpose section
 ## Deployment
 
 ## How To Contribute
+
+### Copyright
+
+2018 Git.Training
